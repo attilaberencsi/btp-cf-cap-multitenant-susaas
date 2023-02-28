@@ -1,6 +1,6 @@
 {
     "$schema": "https://raw.githubusercontent.com/SAP-samples/btp-setup-automator/main/libs/btpsa-parameters.json",
-    "region": "us10",
+    "region": "eu10",
     "loginmethod": "sso",
     "subaccountname": "SusaaS-Provider",
     "cfspacename": "dev",
